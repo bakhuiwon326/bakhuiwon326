@@ -1,11 +1,11 @@
-## Hi there 👋
+### Hi there 👋
 
 <p align='left'>
   안녕하세요! <b>안정적인 서버</b>를 구축하여 <b>사용자의 편리함</b>을 이끄는 <b>Backend Developer</b>가 꿈인 박희원입니다.
 </p>
 <br/>
 
-## Problem Solving ⌨️
+### Problem Solving ⌨️
 
 <p align='left'>
   문제해결 능력 향상을 위해 꾸준히 알고리즘 문제를 해결하고 기록합니다 → 
@@ -16,7 +16,7 @@
 
 <br/>
 
-## Skill 🛠️
+### Skill 🛠️
 ###### language
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
