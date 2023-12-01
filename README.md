@@ -2,7 +2,7 @@
 ## 👋 Hi there
 
 <p align='left'>
-  안녕하세요! <b>안정적인 서버</b>를 구축하여 <b>사용자의 편리함</b>을 이끄는 <b>Backend Developer</b>가 꿈인 박희원입니다.
+  안녕하세요! <b>안정적인 서버</b>를 구축하여 <b>사용자의 편리함</b>을 이끄는 <b>Backend Developer</b>를 꿈꾸는 박희원입니다.
 </p>
 <br/>
 
